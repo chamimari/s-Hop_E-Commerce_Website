@@ -7,6 +7,8 @@ Project is created by me and three other members, whose names I shall not disclo
 
 Disclaimer: The content, including all illustrations, renderings, and images presented in this project, is intended for non-profit, educational, and informational purposes only.
 
+<br>
+
 ## Description for all pages in s-Hop
 
 1. Login
