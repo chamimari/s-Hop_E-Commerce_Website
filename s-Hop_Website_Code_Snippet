@@ -1,0 +1,213 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Homepage</title>
+        <LINK Rel="stylesheet" type="text/css" href="GeneralStyling.css">
+
+        <style>
+            .s-HopSALES{
+               width:100%;
+
+            }
+
+            .jacket{
+                position:absolute;
+                top:8px;
+                right:7px;
+                z-index:-1;
+            }   
+
+            .voucher{
+               width:100%;
+               height: 33vh;
+               background-color:#cbc7ff;
+
+            }
+
+            .vouchertext{
+               color:#7971d5;
+
+            }
+			
+			
+			.r1{
+	   
+	   	   width:28%;
+		   height: 400px;
+		   background-color:#746bdf;
+	   table-layout: fixed;
+	  
+
+	   color:white;
+	  
+	   
+	   }
+	   
+	   .r2{
+	   	   width:28%;
+		   height: 400px;
+		   background-color:#746bdf;
+	       table-layout: fixed;
+	       text-align: left;
+	       color:white;
+	       left:33%
+	       /* display:table-cell; */
+	   }
+	   
+	   .r3{
+	   	   width:28%;
+		   height: 400px;
+		   background-color:#746bdf;
+	       table-layout: fixed;
+	       text-align: left;
+	       color:white;
+           left:66% 
+	      /* display: table-cell;*/
+	    }
+		
+	   img.i1{
+	   height:200px;
+	   width:200px;
+	   text-align: left;
+	  
+	   }
+	   
+	   button{
+	   background-color:#746bdf;
+	   color:white;
+	   }
+	   .d2{
+	   
+	   display: table;
+	   width:100%;
+	   
+	   }
+	   .d1{
+	   
+	   display: table-row;
+	   }
+	   .t11{
+	   width:100%;
+	   
+	   
+	   }
+	   .tr1{
+	   
+	   	   width:28%;
+		   height: 350px;
+		   background-color:#746bdf;
+	   table-layout: fixed;
+	  
+
+	   color:white;
+	  border-radius: 10px;
+	   
+	   }
+        </style>
+    </head>
+
+    <body style="background-color:#6961c8">
+                <div class="banner">
+                     <img class="s-HopSALES" src="./Images/s-Hop SALES.png"> 
+                </div>
+
+        <h2> s-Hop Exclusive Vouchers </h2>
+        <div class="voucher">
+            <table class="vouchertext">
+               <tr>
+                  <td> <a href="voucher.html" target="content"> <img src="./Images/Vouchers/s-HopVoucher70.png" width="345"> </a>  </td>
+                  <td> <a href="voucher.html" target="content"> <img src="./Images/Vouchers/s-Hop200.png" width="345"> </a> </td>
+                  <td> <a href="voucher.html" target="content"> <img src="./Images/Vouchers/s-HopWarrExt.png" width="345"> </a>  </td>
+               </tr>
+            </table> 
+       </div>
+
+    <br>
+
+       
+       <h2> Latest Hot Products </h2>
+	   
+	   
+	   <table class="t11">
+	  
+	     <tr>
+		     <td class="tr1"><center>
+	  <br>
+	  <a href="./Product/Product06.html" target="content"> <img src="./Images/iphone13.jpg" width="200"> </a>
+	  <h4>iPhone 16(Plus, Pro Max) 256GB-1TB</h4>
+	  <h4>RM4499.00-RM7999</h4>
+	  <h4> 4.2 stars | 15.9kRatings | 30.1k Sold </h4>
+	  3 Days Free Returns<br><br>	  
+	  </center> </td>
+			 <td class="tr1"><center>
+	  <br>
+	  <a href="./Product/Product09.html" target="content"> <img src="./Images/nikeshoes.jpg" width="200"></a>
+	  <h4>READY STOCK kasut SB Dunk Low Club 58 Blue White Orange Ice Blue Gulf Racing Joint Casual Shoes</h4>
+	  <h4>RM53.24-RM58.08</h4>
+	  <h4>4.9 stars | 15 Ratings | 25 Sold </h4>
+	 7 Days Free Returns<br><br>
+	
+	  </center> </td>
+			 <td class="tr1"> <center>
+	  <br>
+	  <a href="./Product/Product10.html" target="content"> <img src="./Images/nikejacket2.jpg" width="200"> </a>
+	  <h4>Nike 3-Layer Jacket for Men and Women</h4>
+	  <h4>RM54.45</h4>
+	  <h4>4.9 stars | 28 Ratings | 30 Sold</h4>
+	 No Returns<br><br>
+
+	  
+	  </center></td>
+		  
+		 
+		 </tr>
+	  
+	  
+	  </table>
+	  <br>
+	   
+	  <table class="t11">
+	  
+	     <tr>
+		     <td class="tr1"><center>
+	  <br>
+	  <a href="Product07.html" target="content"> <img src="https://down-my.img.susercontent.com/file/my-11134207-7r98w-lz0pfm8jdrvt2e.webp" class="i1"> </a>
+	  <h4>A Good Girl's Guide to Murder</h4>
+	  <h4>RM0.70</h4>
+	  <h4> 2.9 stars | 3 Ratings | 5 Sold </h4>
+	  3 Days Free Returns<br><br>	  
+	  </center> </td>
+			 <td class="tr1"><center>
+	  <br>
+	  <a href="Product05.html" target="content"> <img src="https://gcs.rimg.com.tw/g4/ade/a3b/david8777/4/ac/c5/22418475946181_609.jpg" class="i1"> </a>
+	  <h4>12CM BSD Doll & Keychain</h4>
+	  <h4>RM49.32</h4>
+	  <h4>5 stars | 1Ratings | 5 Sold </h4>
+	 7 Days Free Returns<br><br>
+	
+	  </center> </td>
+			 <td class="tr1"> <center>
+	  <br>
+	  <a href="Product04.html" target="content"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLg5pzWoPbuqqpmC_gR1ePXUUwytY2x9DizpK-jMjdGhh5TIXs6XlZdK2YlCRNNNypOZk&usqp=CAU" class="i1"> </a>
+	  <h4>Beast Can Badge</h4>
+	  <h4>RM750.00 - RM1562.50</h4>
+	  <h4>3.9 stars | 3 Ratings | 5 Sold</h4>
+	 No Returns<br><br>
+
+	  
+	  </center></td>
+		  
+		 
+		 </tr>
+	  
+	  
+	  </table>
+	  <br>
+	  
+	  
+	  
+	  <br><br><br><br><br><br><br>
+	 
+    </body>
+
+</html>
